@@ -4,6 +4,6 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=conglam56&show_icons=true&border_radius=25&theme_light=default&theme_dark=dracula)](https://github.com/conglam56)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=conglam56&theme=tokyonight-duo&hide_border=true&card_height=170)](https://github.com/conglam56)
+[![GitHub Streak](https://streak-stats.demolab.com?user=conglam56&theme=tokyonight-duo&hide_border=true&card_height=170&v=1)](https://github.com/conglam56)
 
 </div>
